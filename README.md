@@ -26,11 +26,34 @@ I design and deliver production-grade AI systems that connect reliable model wor
 
 > Metrics above are sanitized outcomes from professional engagements. Client code, data, and confidential architecture are never published.
 
-## Current open-source focus
+## Open-source engineering references
 
 ### [Production AI Systems Blueprint](https://github.com/abuzar18/production-ai-systems-blueprint)
 
 A model-independent reference implementation for a verifiable, citation-backed AI workflow. It demonstrates layered architecture, explicit pipeline state, FastAPI contracts, health checks, Docker packaging, automated tests, and GitHub Actions CI.
+
+### [Agentic AI Control Plane](https://github.com/abuzar18/agentic-ai-control-plane)
+
+A safety layer for business agents with explicit workflow state, risk policies, human approval gates, idempotent execution, typed audit events, FastAPI endpoints, Docker, and CI.
+
+### [AWS MLOps Reference Platform](https://github.com/abuzar18/aws-mlops-reference-platform)
+
+A cloud deployment reference with release promotion gates, drift measurement, inference health checks, immutable artifacts, CloudFormation infrastructure, automated tests, and CI/CD.
+
+## Selected systems portfolio
+
+These are sanitized summaries of commercial and applied-research work. Public reference implementations above demonstrate the underlying engineering patterns without exposing client assets.
+
+| System | Business outcome | Architecture focus |
+|---|---|---|
+| **Agentic document and insurance-appeal engine** | Reduced complex drafting and review time by **60–70%** | graph workflows, human review, structured contracts, DOCX/PDF generation |
+| **High-throughput AWS data pipeline** | Reduced p50 processing latency from **126s to 4s** across **1.24M records** | Lambda, SQS, PostgreSQL, PgBouncer, indexing, failure recovery |
+| **AI meeting intelligence and CRM automation** | Automated transcription, summaries, decisions, and action-item synchronization | FastAPI, Azure OpenAI, object storage, Salesforce/CRM integrations |
+| **Citation-verified enterprise knowledge assistant** | Reduced inference latency by **40%** and API cost by **35%** | hybrid retrieval, reranking, caching, citations, evaluation |
+| **Conversational BI and analytics assistant** | Reduced recurring manual analysis by approximately **60%** | natural-language analytics, governed SQL/CSV tools, charts, FastAPI |
+| **Web-grounded executive intelligence** | Automated extraction and evidence-backed synthesis from unstructured sources | browser automation, structured extraction, orchestration, citation trails |
+| **ETL monitoring and executive dashboard** | Unified operational data quality, pipeline health, and decision reporting | ETL validation, anomaly monitoring, KPI modeling, visualization |
+| **Edge Wi-Fi human-activity recognition** | Built a non-wearable activity-recognition research prototype | PyTorch, recurrent neural networks, signal processing, Raspberry Pi |
 
 ## Core stack
 
