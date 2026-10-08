@@ -1,9 +1,10 @@
 # Abuzar Zulfiqar
 
-### AI/ML Engineer & Solutions Architect · Agentic AI · MLOps/LLMOps · Cloud Platforms
+### AI/ML Engineer & Solutions Architect | Agentic AI, MLOps, AWS and Azure
 
-I design and deliver production-grade AI systems that connect reliable model workflows with real business operations. My work spans agentic applications, grounded enterprise assistants, document intelligence, data platforms, and cloud-native deployment on AWS and Azure.
+I build AI systems that have to work outside a demo. My work covers agent workflows, enterprise search, document automation, data platforms and the cloud infrastructure around them. I am most useful when a promising prototype needs clearer architecture, better evaluation, safer releases or lower operating cost.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_live_site-17211D?logo=githubpages&logoColor=white)](https://abuzar18.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abuzar_Zulfiqar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abuzar-zulfiqar/)
 [![Upwork](https://img.shields.io/badge/Upwork-Available_for_projects-14A800?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/abuzarz4)
 
@@ -22,7 +23,7 @@ I design and deliver production-grade AI systems that connect reliable model wor
 | Reduced a high-volume workflow from **126 seconds to 4 seconds** across **1.24M records** | AWS, PostgreSQL, indexing, connection pooling |
 | Lowered LLM API cost by **35%** and inference latency by **40%** | caching, routing, prompt and retrieval optimization |
 | Delivered **25+ AI assistants** with approximately **99.5% availability** | production operations, monitoring, incident prevention |
-| Reduced document drafting and analysis time by **60–70%** | agentic workflows, structured outputs, validation |
+| Reduced document drafting and analysis time by **60% to 70%** | agentic workflows, structured outputs, validation |
 
 > Metrics above are sanitized outcomes from professional engagements. Client code, data, and confidential architecture are never published.
 
@@ -42,11 +43,11 @@ A cloud deployment reference with release promotion gates, drift measurement, in
 
 ## Selected systems portfolio
 
-These are sanitized summaries of commercial and applied-research work. Public reference implementations above demonstrate the underlying engineering patterns without exposing client assets.
+These are sanitized summaries of commercial and applied research work. The public repositories above show the engineering patterns without exposing client code or data.
 
 | System | Business outcome | Architecture focus |
 |---|---|---|
-| **Agentic document and insurance-appeal engine** | Reduced complex drafting and review time by **60–70%** | graph workflows, human review, structured contracts, DOCX/PDF generation |
+| **Agentic document and insurance-appeal engine** | Reduced complex drafting and review time by **60% to 70%** | graph workflows, human review, structured contracts, DOCX/PDF generation |
 | **High-throughput AWS data pipeline** | Reduced p50 processing latency from **126s to 4s** across **1.24M records** | Lambda, SQS, PostgreSQL, PgBouncer, indexing, failure recovery |
 | **AI meeting intelligence and CRM automation** | Automated transcription, summaries, decisions, and action-item synchronization | FastAPI, Azure OpenAI, object storage, Salesforce/CRM integrations |
 | **Citation-verified enterprise knowledge assistant** | Reduced inference latency by **40%** and API cost by **35%** | hybrid retrieval, reranking, caching, citations, evaluation |
@@ -68,8 +69,9 @@ These are sanitized summaries of commercial and applied-research work. Public re
 
 ## Let’s work together
 
-I help founders, CTOs, and product teams take AI systems from architecture review to dependable production delivery.
+If you are working through an AI architecture decision or trying to move a prototype into production, send me the context. I can help identify a practical first step.
 
+- [View my portfolio](https://abuzar18.github.io/)
 - [Discuss a project on Upwork](https://www.upwork.com/freelancers/abuzarz4)
 - [Connect on LinkedIn](https://www.linkedin.com/in/abuzar-zulfiqar/)
 
