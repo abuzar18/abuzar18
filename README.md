@@ -30,6 +30,10 @@ I build AI systems that have to work outside a demo. My work covers agent workfl
 
 ## Open-source engineering references
 
+### [Llama Agentic RAG](https://github.com/abuzar18/llama-agentic-rag) (flagship)
+
+Self-correcting, citation-grounded RAG on local Llama models (Ollama) built with LangGraph. Every retrieved chunk is graded for relevance, vague queries are rewritten, and a groundedness check turns unsupported answers into "I don't know". Ships with an LLM-as-judge evaluation harness (including unanswerable questions), a FastAPI service, an MCP server for Claude, Docker, and CI on Python 3.11 and 3.12.
+
 ### [Production AI Systems Blueprint](https://github.com/abuzar18/production-ai-systems-blueprint)
 
 A model-independent reference implementation for a verifiable, citation-backed AI workflow. It demonstrates layered architecture, explicit pipeline state, FastAPI contracts, health checks, Docker packaging, automated tests, and GitHub Actions CI.
@@ -59,7 +63,7 @@ These are sanitized summaries of commercial and applied research work. The publi
 
 ## Core stack
 
-`Python` · `FastAPI` · `LangGraph` · `Azure OpenAI` · `AWS` · `Docker` · `Kubernetes` · `PostgreSQL` · `Redis` · `Pydantic` · `PyTorch` · `GitHub Actions`
+`Python` · `FastAPI` · `LangGraph` · `LangChain` · `Ollama` · `MCP` · `Azure OpenAI` · `AWS` · `Docker` · `Kubernetes` · `PostgreSQL` · `Redis` · `Pydantic` · `PyTorch` · `GitHub Actions`
 
 ## How I work
 
