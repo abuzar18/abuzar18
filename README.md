@@ -46,6 +46,13 @@ A safety layer for business agents with explicit workflow state, risk policies, 
 
 A cloud deployment reference with release promotion gates, drift measurement, inference health checks, immutable artifacts, CloudFormation infrastructure, automated tests, and CI/CD.
 
+## Writing
+
+- [Building a RAG System That Says "I Don't Know": Self-Correcting RAG with Llama 3.1 and LangGraph](https://abuzar18.github.io/blog/self-correcting-rag-llama-langgraph/)
+- [From 126 Seconds to 4: The Unglamorous Fix Behind a 30x Speedup](https://abuzar18.github.io/blog/126-seconds-to-4-postgres-lambda-sqs/)
+
+Also on [DEV](https://dev.to/abuzar18), [Medium](https://medium.com/@abuzarzulfiqar18) and [Hashnode](https://abuzar18.hashnode.dev/). Detailed case studies: [abuzar18.github.io/projects](https://abuzar18.github.io/projects/).
+
 ## Selected systems portfolio
 
 These are sanitized summaries of commercial and applied research work. The public repositories above show the engineering patterns without exposing client code or data.
