@@ -1,6 +1,6 @@
 # Abuzar Zulfiqar
 
-### AI/ML Engineer | AI Agents, RAG & LLM Automation | MLOps on AWS and Azure | Available for freelance projects
+### AI/ML Engineer | AI Agents, RAG & LLM Automation | MLOps on AWS and Azure | Open to consulting, senior roles and partnerships
 
 I build AI systems that have to work outside a demo. My work covers agent workflows, enterprise search, document automation, data platforms and the cloud infrastructure around them. I am most useful when a promising prototype needs clearer architecture, better evaluation, safer releases or lower operating cost.
 
