@@ -1,12 +1,12 @@
 # Abuzar Zulfiqar
 
-### AI/ML Engineer | AI Agents, RAG & LLM Automation | MLOps on AWS and Azure | Open to consulting, senior roles and partnerships
+### AI/ML Engineer | AI Agents, RAG & LLM Automation | MLOps on AWS and Azure
 
 I build AI systems that have to work outside a demo. My work covers agent workflows, enterprise search, document automation, data platforms and the cloud infrastructure around them. I am most useful when a promising prototype needs clearer architecture, better evaluation, safer releases or lower operating cost.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_live_site-17211D?logo=githubpages&logoColor=white)](https://abuzar18.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abuzar_Zulfiqar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abuzar-zulfiqar/)
-[![Upwork](https://img.shields.io/badge/Upwork-Available_for_projects-14A800?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/abuzarz4)
+[![Upwork](https://img.shields.io/badge/Upwork-Profile-14A800?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/abuzarz4)
 
 ## What I build
 
@@ -79,11 +79,11 @@ These are sanitized summaries of commercial and applied research work. The publi
 3. Ship a thin vertical slice, evaluate it with representative cases, then scale deliberately.
 4. Leave teams with maintainable code, operational visibility, and clear documentation.
 
-## Let’s work together
+## Recent writing
 
-If you are working through an AI architecture decision or trying to move a prototype into production, send me the context. I can help identify a practical first step.
+- [Three Years of Shipping Production AI](https://abuzar18.github.io/blog/three-years-production-ai/)
+- [Five Ways an Unreviewed AI Architecture Breaks in Production](https://abuzar18.github.io/blog/ai-architecture-review-failure-modes/)
+- [Building a RAG System That Says "I Don't Know"](https://abuzar18.github.io/blog/self-correcting-rag-llama-langgraph/)
+- [From 126 Seconds to 4: The Unglamorous Fix Behind a 30x Speedup](https://abuzar18.github.io/blog/126-seconds-to-4-postgres-lambda-sqs/)
 
-- [View my portfolio](https://abuzar18.github.io/)
-- [Discuss a project on Upwork](https://www.upwork.com/freelancers/abuzarz4)
-- [Connect on LinkedIn](https://www.linkedin.com/in/abuzar-zulfiqar/)
-
+The scripts behind the numbers are in [production-ai-notes](https://github.com/abuzar18/production-ai-notes). Case studies and the rest of my writing: [abuzar18.github.io](https://abuzar18.github.io/).
